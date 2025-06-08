@@ -1,12 +1,12 @@
 # 📜 Certifications
 
-Welcome to my certification portfolio! I’m continuously learning and growing my expertise. Below are the certifications I've earned and projects I’ve completed to demonstrate my skills.
+Welcome to my certification portfolio! I’m continuously learning and growing my expertise. Below are the certifications I've earned so far.
 
 ---
 
 ## 🔐 Cybersecurity Certifications
 
-### ✅ Google Cybersecurity Certificate
+### Google Cybersecurity Certificate
 - **Issuer**: Google / Coursera
 - **Date Earned**: [May 25,2025]
 - **Credential ID**: [FQI4R9R6S8CA]
